@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodiceFiscale", "CodiceFiscale\CodiceFiscale.csproj", "{D45359D9-BD41-430E-8C6A-BE832857706D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodiceFiscale.Tests", "CodiceFiscale.Tests\CodiceFiscale.Tests.csproj", "{B9646CD3-6630-4FDE-9B3D-E6AC7A9C7695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45359D9-BD41-430E-8C6A-BE832857706D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45359D9-BD41-430E-8C6A-BE832857706D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45359D9-BD41-430E-8C6A-BE832857706D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45359D9-BD41-430E-8C6A-BE832857706D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9646CD3-6630-4FDE-9B3D-E6AC7A9C7695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9646CD3-6630-4FDE-9B3D-E6AC7A9C7695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9646CD3-6630-4FDE-9B3D-E6AC7A9C7695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9646CD3-6630-4FDE-9B3D-E6AC7A9C7695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04579226-DE96-41E8-9749-26F0CC0FF3B6}
+	EndGlobalSection
+EndGlobal
